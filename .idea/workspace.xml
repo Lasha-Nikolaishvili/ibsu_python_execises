@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f4cc345-ad32-4e9b-adf6-f740830e97ea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/ibsu_python_practice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pandas_exercises.py" afterDir="false" />
-    </list>
+    <list default="true" id="4f4cc345-ad32-4e9b-adf6-f740830e97ea" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,7 +39,7 @@
     "Python.pandas_exercises.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/pc/PycharmProjects/ibsu_python_practice",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -155,7 +146,7 @@
       <workItem from="1712943103388" duration="9933000" />
       <workItem from="1712960236612" duration="592000" />
       <workItem from="1712994016667" duration="8574000" />
-      <workItem from="1713035953277" duration="1422000" />
+      <workItem from="1713035953277" duration="1807000" />
     </task>
     <servers />
   </component>
